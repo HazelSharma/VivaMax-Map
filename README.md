@@ -20,6 +20,7 @@ Created in collaboration with Kerem Topalismailoglu and Diana Virgovičová.
 - Availible in different languages
 - Toggle between light and dark mode
 - Pop-up Help Menu
+- Implemented Dijkstra and Greedy algorithms
 
 ## Screenshots
 **Distance between two points + Directions pop-up [Toronto, Canada]**
