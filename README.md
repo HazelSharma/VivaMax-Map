@@ -5,6 +5,9 @@ A mapping software designed for geocache gaming, written in C++ with the EZGL Gr
 Geocaching is a treasure-hunting activity that involves searching for a "cache" using GPS coordinates. Our map is designed to serve as a medium between the user and their prize by adding navigation abillities, game support and much more.
 
 **Technologies:** C++, EZGL Library, GTKWidgets, Glade, OSM Database, Netbeans, Git
+
+<img src="https://user-images.githubusercontent.com/53130340/169710677-80f22095-ff2b-40ad-ae3b-ec7a39b4e7ae.png" width=25% height=25%>
+
 **Note:** Code cannot be published as this was completed under the course ECE297 at the University of Toronto.
 
 Created in collaboration with Kerem Topalismailoglu and Diana Virgovičová.
